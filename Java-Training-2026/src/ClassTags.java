@@ -5,6 +5,6 @@
  **/
 public class ClassTags {
     public static void main(String[] args){
-        system.out.println("this shows the tags");
+        System.out.println("this shows the tags");
     }
 }
