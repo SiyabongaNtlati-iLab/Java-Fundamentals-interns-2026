@@ -30,5 +30,6 @@ public class Homework1 {
         System.out.println("The subtotal for " + adultAmnt + " adult meals @ R" + adultPrice + " each: R" + subAdlTotal);
         System.out.println("The subtotal for " + kidsAmnt + " kids meals @ R" + kidsPrice + " each: R" + subKidTotal);
         System.out.println("Your total amount is : R" + TotalPrice);
+        //this is just for me to test the push
     }
 }
