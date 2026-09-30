@@ -8,7 +8,7 @@ package Chapter3;
 public class WhileLoop {
     public static void main(String[] args){
         //Display java 5 times
-        int x=1;
+        int x=6;
 
         while (x %3==0){
             System.out.println(x + " - Java");
